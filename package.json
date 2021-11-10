@@ -1,0 +1,14 @@
+{
+  "name": "catchlaunch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv-safe": "^8.2.0",
+    "ws": "^8.2.3"
+  }
+}
